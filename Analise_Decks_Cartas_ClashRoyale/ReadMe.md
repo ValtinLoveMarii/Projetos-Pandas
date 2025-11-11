@@ -1,8 +1,14 @@
-# Descrição do projeto!
-🔍 projeto com foco em analisar e gerar insights sobre os principais decks usados, quais são as cartas mais presentes em decks vitoriosos/perdedores e posteriomente fazer a comparação
-com o meta atual. Onde será verificado, quais cartas ainda continuam nos decks mais vitoriosos/perdedores, ver qual carta no meta atual tem mais chance de vitória/derrota em relação ao dados passados
-
-# 🧾 Desenvolvimento e Scripts
+# ⛏ Descrição do projeto!
 
 
-# 📁 Dataset com data de 27 de novembro de 2019
+🔍 Projeto com foco em analisar os decks dos 1000 melhores jogadores, em desafios 1v1, onde será gerado insights, sobre qual deck tem a maior taxa de vitória e o de menor taxa,
+verificar quais cartas estão presentes nos decks mais vencedores e mais perdedores. **Os resultados gerados por esse dados são da data de novembro de 2018, levar em consideração**
+
+### 📍 Objetivos
+
+1 - Extrair as cartas mais utilizadas
+
+2 - Extrair a taxa de vitória por carta (extrair quantas vezes a tal carta aparece em decks vendecores);
+
+
+### 📁 Dataset com data de 27 de novembro de 2019
