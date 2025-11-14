@@ -10,5 +10,9 @@ verificar quais cartas estão presentes nos decks mais vencedores e mais perdedo
 
 2 - Extrair a taxa de vitória por carta (extrair quantas vezes a tal carta aparece em decks vendecores);
 
+3 - Extrair combos/combinçaões de cartas mais frequentes nos decks, e extrair a taxa de vitórias deles
+
+4 - Extrar a média de coreoas entre os vencedores e perdedores
+
 
 ### 📁 Dataset com data de 27 de novembro de 2019
